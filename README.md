@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Sundaes on demand
+
+The purpose of "Sundaes on Demand" is to implement tests (TDD) throughout the development of an application allowing to order sundaes with different tastes and toppings.
+We will simulate and test asynchronous accesses to a server with mockups.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
